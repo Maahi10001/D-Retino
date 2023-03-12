@@ -28,7 +28,7 @@ st.write(
 
     # Web Demo for Self-Supervised Learning on Diabetic Retinopathy Images
 
-    ### [GitHub](https://github.com/Dineswar11/dretino)
+    ### [GitHub](https://github.com/Maahi10001/D-Retino)
 
     """
 )
